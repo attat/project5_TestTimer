@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\KushionT\Desktop\Android Development\project5_TestTimer-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\KushionT\Desktop\Android Development\project5_TestTimer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7263a738f1457e4de0260a50cc4d5d4a0305a891\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KushionT\Desktop\Android Development\project5_TestTimer-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bdf9d7500ce8aebcb9b6cd83757bee721125fc76">
+        <dex dex="C:\Users\KushionT\Desktop\Android Development\project5_TestTimer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0e53ce284138bf14f3e2d4c99d19eebdb85769ec\classes.dex" />
+    </item>
+
+</items>

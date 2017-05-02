@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "C:\\Users\\KushionT\\Desktop\\Android Development\\project5_TestTimer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "C:\\Users\\KushionT\\Desktop\\Android Development\\project5_TestTimer-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 50,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 52,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\Users\\KushionT\\Desktop\\Android Development\\project5_TestTimer-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 52,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 50,
+                    "endOffset": 205
+                },
+                "from": {
+                    "file": "C:\\Users\\KushionT\\Desktop\\Android Development\\project5_TestTimer-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 50,
+                        "endOffset": 206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 210,
+                    "endColumn": 76,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "C:\\Users\\KushionT\\Desktop\\Android Development\\project5_TestTimer-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 77,
+                        "endOffset": 89
+                    }
+                }
+            }
+        ]
+    }
+]
